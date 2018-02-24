@@ -2,7 +2,7 @@
 title: La MYNE
 info: 'Ouverture au public le Mercredi à partir de 18h. Téléphone: 04 26 64 36 16'
 subtitle: Manufacture des Idées et des Nouvelles Expérimentations
-catchline: "Tiers-Lieu des Transitions par les Communs - #TILIOS<br><br> Un Espace de Liberté, d'Expérimentations<br> et d'Innovation Citoyenne"
+catchline: "Tiers-Lieu pour des Transitions par les Communs - #TILIOS<br><br> Un Espace de Liberté, d'Expérimentations<br> et d'Innovation Citoyenne"
 newsletter: Suivez notre Newsletter | Notre communication est frugale
 event: Retrouvez-nous
 news: Dernières Actualités
